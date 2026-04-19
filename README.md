@@ -53,3 +53,7 @@ hooks:
 | `InvalidArgument` | registry returned 4xx other than 404; or request missing required fields |
 | `Unavailable` | registry unreachable or 5xx |
 | `FailedPrecondition` | `base_url` not configured |
+
+
+---
+Extracted from github.com/sahina/cvt monorepo at commit 628f1d9924bb897faa20b4022cb2836e084300a1 on 2026-04-19.
